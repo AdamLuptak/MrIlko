@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Mr Ilko</string>
+    <string name="search">Search</string>
+    <string name="temperature">Temperature</string>
+    <string name="humidity">Humidity</string>
+    <string name="pressure">Pressure</string>
+    <string name="provider">openweathermap.org</string>
+</resources>
